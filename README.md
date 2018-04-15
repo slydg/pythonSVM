@@ -2,5 +2,4 @@
 
 - using numpy, pandas and matplotlib
 - using SMO method
-- without kernel functions
-- TODO: build kernel functions
+- with or without kernel functions
